@@ -5,7 +5,7 @@
 
 A custom-built, versatile computing system that seamlessly transforms between a portable 7-inch tablet and a full-featured laptop experience. Designed and developed to support computational chemistry research and molecular docking simulations.
 
-![Pi Machine Banner](https://via.placeholder.com/1200x400/1a1a1a/00ff00?text=Pi+Machine+-+Dual+Mode+Computing)
+![Pi Machine Banner](images/galaxypi.png)
 
 ---
 
