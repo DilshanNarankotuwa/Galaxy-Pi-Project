@@ -608,7 +608,10 @@ The briefcase has a more powerful battery system to support the larger display:
 ![Briefcase Closed](images/briefcaseclosed.jpg)
 *Handcrafted wooden design*
 
-![Briefcase Open](placeholder-briefcase-open.jpg)
+![Briefcase Open](images/briefcaseopen1.jpg)
+*15.6" display*
+
+![Briefcase Open](images/briefcaseopen2.jpg)
 *15.6" display and keyboard layout*
 
 ![Docking Mechanism](placeholder-docking.jpg)
