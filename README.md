@@ -758,6 +758,7 @@ A: Yes, 18650 cells are standard and replaceable when they degrade.
 
 **Version 1.1** (Upcoming)
 - Wireless docking support
+- weight and thickness reduce
 - Improved battery monitoring
 - Custom desktop environment
 
