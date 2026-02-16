@@ -27,7 +27,6 @@ A custom-built, versatile computing system that seamlessly transforms between a 
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -600,7 +599,7 @@ The briefcase has a more powerful battery system to support the larger display:
 
 ### Core Device
 
-![Tablet Front](/images/tablet front.jpg)
+![Tablet Front](images/tablet front.jpg)
 *7-inch touchscreen in action*
 
 ![Tablet Internals](placeholder-tablet-internal.jpg)
@@ -684,27 +683,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
----
-
-## 🙏 Acknowledgments
-
-### Academic Support
-
-- **Dr. Tharindu Senapathi** - Research Supervisor, Department of Chemistry, University of Sri Jayewardenepura
-- **Prof. N. T. Perera** - Head of Department, Department of Chemistry
-- **My Lab Colleagues** - Kanchana, Nipuni, Dharani, Hansika, and Hiruni
-
-### Inspiration & Resources
-
-- **Raspberry Pi Foundation** - For creating accessible computing hardware
-- **Open Source Community** - For tools and software that made this possible
-- **DIY/Maker Community** - For inspiration and design ideas
-
-### Family Support
-
-- **My Parents** - For unwavering support and understanding
-- **My Sisters** - For encouragement throughout the project
 
 ---
 
@@ -829,5 +807,6 @@ A: Yes, 18650 cells are standard and replaceable when they degrade.
 *If this project helped or inspired you, give it a ⭐!*
 
 </div>
+
 
 
