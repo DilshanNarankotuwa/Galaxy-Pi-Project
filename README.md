@@ -595,11 +595,9 @@ The briefcase has a more powerful battery system to support the larger display:
 
 ## 📸 Gallery
 
-> *Note: Add actual project photos here*
-
 ### Core Device
 
-![Tablet Front](images/tabletfront.jpg)
+![Tablet Front](/images/tabletfront.jpg)
 *7-inch touchscreen in action*
 
 ![Tablet Internals](placeholder-tablet-internal.jpg)
