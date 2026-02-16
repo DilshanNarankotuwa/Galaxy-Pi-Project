@@ -605,7 +605,7 @@ The briefcase has a more powerful battery system to support the larger display:
 
 ### Briefcase System
 
-![Briefcase Closed](placeholder-briefcase-closed.jpg)
+![Briefcase Closed](images/briefcaseclosed.jpg)
 *Handcrafted wooden design*
 
 ![Briefcase Open](placeholder-briefcase-open.jpg)
