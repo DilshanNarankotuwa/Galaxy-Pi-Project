@@ -600,7 +600,7 @@ The briefcase has a more powerful battery system to support the larger display:
 ![TabletFront](images/tabletfront.jpg)
 *7-inch touchscreen in action*
 
-![Tablet Internals](tabletinternal.jpg)
+![Tablet Internals](images/tabletinternal.jpg)
 *Raspberry Pi 5 with SSD HAT and battery pack*
 
 ### Briefcase System
