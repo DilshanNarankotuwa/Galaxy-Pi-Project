@@ -614,17 +614,6 @@ The briefcase has a more powerful battery system to support the larger display:
 ![Briefcase Open](images/briefcaseopen2.jpg)
 *15.6" display and keyboard layout*
 
-![Docking Mechanism](placeholder-docking.jpg)
-*Magnetic docking alignment*
-
-### In Use
-
-![Research Setup](placeholder-research.jpg)
-*Running molecular docking simulations*
-
-![Portable Mode](placeholder-portable.jpg)
-*Tablet mode for on-the-go work*
-
 ---
 
 ## 🚀 Future Improvements
