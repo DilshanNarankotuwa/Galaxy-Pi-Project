@@ -692,9 +692,9 @@ SOFTWARE.
 
 - 🎓 **University**: University of Sri Jayewardenepura, Sri Lanka
 - 🔬 **Research**: Computational Chemistry, Drug Discovery
-- 💼 **LinkedIn**: [Add your LinkedIn profile]
-- 🐙 **GitHub**: [Add your GitHub profile]
-- 📧 **Email**: [Add your email]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/dilshan-narankotuwa
+- 🐙 **GitHub**: https://github.com/DilshanNarankotuwa
+- 📧 **Email**: narankotuwadilshan@gmail.com
 
 ### Related Projects
 
@@ -706,7 +706,7 @@ SOFTWARE.
 ## 📊 Project Stats
 
 - **Development Time**: 3 months
-- **Total Cost**: ~$400 USD
+- **Total Cost**: ~$200 USD
 - **Lines of Code**: ~2,000 (configuration + scripts)
 - **Components**: 50+ individual parts
 - **Battery Cells**: 18 total (6 tablet + 12 briefcase)
