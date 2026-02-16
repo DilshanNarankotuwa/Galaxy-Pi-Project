@@ -597,7 +597,7 @@ The briefcase has a more powerful battery system to support the larger display:
 
 ### Core Device
 
-![Tablet Front](images/tabletfront.jpg)
+![Homepage](images/tabletfront.jpg)
 *7-inch touchscreen in action*
 
 ![Tablet Internals](placeholder-tablet-internal.jpg)
@@ -805,6 +805,7 @@ A: Yes, 18650 cells are standard and replaceable when they degrade.
 *If this project helped or inspired you, give it a ⭐!*
 
 </div>
+
 
 
 
